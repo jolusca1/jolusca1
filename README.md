@@ -1,4 +1,4 @@
-### Olá! Eu sou o João Lucas!
+## Olá! Eu sou o João Lucas!
 
 - 🔭 Estou trabalhando com Frontend
 - 🌱 Estou aprendendo JavaScript
