@@ -2,6 +2,7 @@
 
 - 🔭 Estou trabalhando com Frontend
 - 🌱 Estou aprendendo JavaScript
+- <a href="https://icons8.com/icon/13441/python"></a>
 
 <div align="center">
   <a href="https://github.com/jolusca1">
