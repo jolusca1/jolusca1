@@ -3,6 +3,7 @@
 - 🔭 Estou trabalhando com Frontend
 - 🌱 Estou aprendendo JavaScript
 - 👾 Estou aprendendo Python
+- ✍️ Estou aprendendo PHP
 
 <div align="center">
   <a href="https://github.com/jolusca1">
