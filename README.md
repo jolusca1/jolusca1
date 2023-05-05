@@ -1,7 +1,6 @@
 ## Olá! Eu sou o João Lucas!
 
-- 🔭 Estou trabalhando com Frontend
-- 🌱 Estou aprendendo JavaScript
+- 🌱 Estou estudando Data Science
 - 👾 Estou aprendendo Python
 - ✍️ Estou aprendendo PHP
 
