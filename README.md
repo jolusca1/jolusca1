@@ -2,7 +2,7 @@
 
 - 🌱 Estou estudando Data Science
 - 👾 Estou aprendendo Python
-- ✍️ Estou aprendendo PHP
+- ✍️ Estudando Django
 
 <div align="center">
   <a href="https://github.com/jolusca1">
