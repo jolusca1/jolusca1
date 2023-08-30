@@ -1,42 +1,20 @@
-## Olá! Eu sou o João Lucas!
+![João Lucas](https://github.com/jolusca1/jolusca1/assets/110925879/49c0e1b3-e633-4aba-a95a-170bd8a28874)
 
-- 🌱 Estou estudando Data Science
-- 👾 Estou aprendendo Python
-- ✍️ Estudando Django
+## Bem-vindo(a) ao meu mundo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-<div align="center">
-  <a href="https://github.com/jolusca1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jolusca1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jolusca1&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-## O que eu uso
+### Oi, eu me chamo João Lucas, estou estudando para me tornar Engenheiro de Software.
+### (Hi, my name is João Lucas, I'm studying to become a Software Engineer).
 
-<table>
-  <tbody>
-      <td width="25%" align="center">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-    </tr>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Django</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
- </div>
-<div>
-  <a href="https://instagram.com/joaolucaraujo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaolucasaraujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+<a href="https://www.linkedin.com/in/joaolucasaraujo">
+  <img align="left" alt="João Lucas" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/joaolucaraujo">
+  <img align="left" alt="João Lucas" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<br />
+<br />
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
+⭐️ From [@jolusca1](https://github.com/jolusca1)
