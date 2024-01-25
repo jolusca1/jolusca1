@@ -40,7 +40,11 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+## Total de visitas ao meu perfil :detective:
+
+<img src="https://profile-counter.glitch.me/Rhazek/count.svg" />
+
+<h3> 🤝🏻 &nbsp;Conecte comigo </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/joaolucasaraujo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-João%20Lucas%20Araújo%20Barroso-blue?style=flat-square&logo=linkedin"></a>
