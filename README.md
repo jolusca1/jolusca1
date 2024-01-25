@@ -42,7 +42,7 @@
 
 ## Total de visitas ao meu perfil :detective:
 
-<img src="https://profile-counter.glitch.me/Rhazek/count.svg" />
+<img src="https://profile-counter.glitch.me/jolusca1/count.svg" />
 
 <h3> 🤝🏻 &nbsp;Conecte comigo </h3>
 
