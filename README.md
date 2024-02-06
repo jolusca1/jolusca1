@@ -44,6 +44,7 @@
 
 <img src="https://profile-counter.glitch.me/jolusca1/count.svg" />
 
+
 <h3> 🤝🏻 &nbsp;Conecte comigo </h3>
 
 <p align="center">
@@ -53,3 +54,4 @@
 </p>
 
 ⭐️ From [João Lucas](https://github.com/jolusca1)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
