@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções rápidas usando programação.
 - 🎓 &nbsp; Estudando Engenharia de Software no Centro Universitário Dom Bosco.
 - 💼 &nbsp; Trabalhando como desenvolvedor na Tecnotech Sistemas LTDA.
-- 🌱 &nbsp; Aprendendo sobre práticas avançadas com GIT, Django e Django REST.
+- 🌱 &nbsp; Desenvolvedor Python em Django e Java em Spring Boot.
 - 🌱 &nbsp; Possuo conhecimentos e experiências com o ecossistema Django, utilizando PostgreSQL. Além disso, conhecimentos em análise de dados com Python e Power BI para DataViz.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
