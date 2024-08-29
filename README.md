@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções rápidas usando programação.
-- 🎓 &nbsp; Estudando Engenharia de Software no Centro Universitário Dom Bosco.
+- 🎓 &nbsp; Estudando Engenharia de Software no Cruzeiro do Sul
 - 💼 &nbsp; Trabalhando como desenvolvedor na Tecnotech Sistemas LTDA.
 - 🌱 &nbsp; Desenvolvedor Python em Django e Java em Spring Boot.
 - 🌱 &nbsp; Possuo conhecimentos e experiências com o ecossistema Django, utilizando PostgreSQL. Além disso, conhecimentos em análise de dados com Python e Power BI para DataViz.
