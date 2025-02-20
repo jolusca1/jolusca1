@@ -1,5 +1,3 @@
-<img src="https://github.com/jolusca1/jolusca1/assets/110925879/49c0e1b3-e633-4aba-a95a-170bd8a28874">
-
 <h2> Olá, mundo! Me chamo João Lucas.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
